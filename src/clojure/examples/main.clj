@@ -29,3 +29,6 @@
 ;(println (+ 1, 2, 3, 4, 5))
 
 (println 2r1111)
+(println 2r1111)
+(println 2r1111)
+(println 2r1111)
